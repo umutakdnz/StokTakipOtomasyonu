@@ -8,8 +8,8 @@ Projenin Genel Özellikleri:
 > Ürünlerin stok durumunun güncellenmesi, yeni ürünlerin eklenmesi ve mevcut ürünlerin silinmesi.
 
 2. Stok ve Satış Raporları:
-> Stok Raporları: Mevcut ürünlerin stok durumu analiz edilip raporlanır.
-> Satış Raporları: Satışların analizi, toplam gelir takibi ve satış verilerinin raporlanması sağlanır.
+- Stok Raporları: Mevcut ürünlerin stok durumu analiz edilip raporlanır.
+- Satış Raporları: Satışların analizi, toplam gelir takibi ve satış verilerinin raporlanması sağlanır.
 
 3. Kullanıcı Girişi ve Yetkilendirme:
 > Rol tabanlı erişim kontrolü: Müdür, satış elemanı ve depocu gibi farklı kullanıcı tipleri için özel yetkilendirme yapılır.
