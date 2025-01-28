@@ -1,11 +1,5 @@
 package kullanici;
 
-//public class Depocu extends Kullanici {
-//    public Depocu(String kullaniciAdi, String parola, String eposta) {
-//        super("kullanici.Depocu", kullaniciAdi, parola, eposta);
-//    }
-//}
-
 public class Depocu {
     private String ad;
     private String parola;
