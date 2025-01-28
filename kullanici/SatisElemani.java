@@ -1,11 +1,5 @@
 package kullanici;
 
-//public class SatisElemani extends Kullanici {
-//    public SatisElemani(String kullaniciAdi, String parola, String eposta) {
-//        super("Satis Elemani", kullaniciAdi, parola, eposta);
-//    }
-//}
-
 public class SatisElemani {
     private String ad;
     private String parola;
