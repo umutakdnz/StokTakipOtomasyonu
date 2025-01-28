@@ -1,11 +1,5 @@
 package kullanici;
 
-//public class Mudur extends Kullanici {
-//    public Mudur(String kullaniciAdi, String parola, String eposta) {
-//        super("kullanici.Mudur", kullaniciAdi, parola, eposta);
-//    }
-//}
-
 public class Mudur {
     private String ad;
     private String parola;
