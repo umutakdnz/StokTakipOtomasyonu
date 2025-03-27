@@ -29,10 +29,14 @@ Proje Geliştirilirken Kullanılan Teknolojiler:
 
 Proje, kullanıcı ve ürün yönetimini kolaylaştırmanın yanı sıra stok ve satış süreçlerinin etkin bir şekilde yürütülmesini sağlar. Java ve MySQL entegrasyonu ile veriler güvenli şekilde saklanırken, Java Swing ile kullanıcı dostu bir arayüz oluşturulmuştur. Rol tabanlı yetkilendirme sayesinde kullanıcılar yalnızca yetkileri dâhilindeki işlemleri gerçekleştirebilir. Bu özellikler, işletmelerin stok yönetimi ve satış süreçlerini daha verimli ve güvenilir hale getirmiştir.
 
--![Ekran görüntüsü 2025-01-28 104226](https://github.com/user-attachments/assets/3c124c35-03ad-407e-af4d-2857ff4643bd)
+**Satış Paneli**
+- ![Ekran görüntüsü 2025-01-28 104226](https://github.com/user-attachments/assets/3c124c35-03ad-407e-af4d-2857ff4643bd)
 
--![Ekran görüntüsü 2025-01-28 104526](https://github.com/user-attachments/assets/cf77f7a3-3dd1-4859-858b-61fb00ab897a)
+**Müdür Paneli**
+- ![Ekran görüntüsü 2025-01-28 104526](https://github.com/user-attachments/assets/cf77f7a3-3dd1-4859-858b-61fb00ab897a)
 
--![Ekran görüntüsü 2025-01-28 104418](https://github.com/user-attachments/assets/b4c72f50-ee81-4a0b-b4a0-4486651a911e)
+**Depocu Paneli**
+- ![Ekran görüntüsü 2025-01-28 104418](https://github.com/user-attachments/assets/b4c72f50-ee81-4a0b-b4a0-4486651a911e)
 
--![Ekran görüntüsü 2025-01-28 104626](https://github.com/user-attachments/assets/b7aff919-27b9-48d2-83d9-9c48cfc43ee2)
+**Kullanıcı Giriş Paneli**
+- ![Ekran görüntüsü 2025-01-28 104626](https://github.com/user-attachments/assets/b7aff919-27b9-48d2-83d9-9c48cfc43ee2)
